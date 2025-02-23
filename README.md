@@ -29,3 +29,19 @@ To start getting random games, do the following:
     
 Have Fun and Stay Gaming!!
 
+### Future Potential Improvements
+
+- Pick by categories.
+- Sort by criteria.
+- Search keywords.
+- Related games.
+- Access user's own game libraries.
+- Development as a webapp.
+
+### Licensing and Usage
+
+Steal it, take credit for it, change it, improve it, sell it, it's yours. 
+
+If you want to bullshit with me, visit https://discord.com/invite/gAugxKBHQY.
+
+If you want to encourage other coding projects like this, donate to https://www.patreon.com/c/cacophony1979
