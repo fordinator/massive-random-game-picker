@@ -44,4 +44,4 @@ Steal it, take credit for it, change it, improve it, sell it, it's yours.
 
 If you want to bullshit with me, visit https://discord.com/invite/gAugxKBHQY.
 
-If you want to encourage other coding projects like this, donate to https://www.patreon.com/c/cacophony1979
+If you want to encourage other coding projects like this, donate to https://www.patreon.com/cacophony1979
